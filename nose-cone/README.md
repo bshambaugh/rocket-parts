@@ -10,4 +10,6 @@ about the x-axis is given in noseCone.hdf.
 
 An image of the vectorized plotted curve from the points is ogive-curve.png.
 
-An stl file of the nose cone (surface of revolution) is in Revolution_1.stl.
+A stl file of the nose cone (surface of revolution) is in Revolution_1.stl.
+
+CompleteNoseCone.step and CompleteNoseCone.stl includes a bulkhead along with the nose cone. This shape can be 3-D Printed. 

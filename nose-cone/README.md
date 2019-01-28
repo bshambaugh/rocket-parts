@@ -16,10 +16,12 @@ CompleteNoseCone.step and CompleteNoseCone.stl includes a bulkhead along with th
 
 Meshing is Done in Salome-Meca:
 
+
+Boundary Conditions:
 Use the tutorials/incompressible/simpleFoam/pipeCyclic/constant/polyMesh/boundary for an example of a 3D-Mesh boundary
 and /incompressible/simpleFoam/airFoail2D/constant/polyMesh for an example of flow over a surface
 
-The icoFoam solver results are in:
+The <s>icoFoam</s> simpleFoam solver results are in:
 
 
 In Post Processing in Paraview Do:

@@ -30,3 +30,7 @@ In Post Processing in Paraview Do:
 https://www.youtube.com/watch?v=J944HOj_4b0   [How to calculate aerodynamic forces with Paraview]
 
 https://en.wikipedia.org/wiki/Drag_(physics)#Aerodynamics  [Wikipedia - Drag_(physics)]
+
+When you have the CFD measurements done,
+Compare this to : https://en.wikipedia.org/wiki/Dynamic_pressure
+Use a barometric pressure sensor and perhaps 3D print a pitot tube.
